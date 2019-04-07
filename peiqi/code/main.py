@@ -13,7 +13,6 @@ from weiba import draw_weiba
 def main():
     """
     主函数
-    :return: null
     """
     t.pensize(4)
     t.colormode(255)

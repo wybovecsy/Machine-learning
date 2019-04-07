@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="61935a50-bfe6-410a-a18f-e3018da809d0" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/peiqi/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/peiqi/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/peiqi/.idea/peiqi.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/peiqi/.idea/workspace.xml" beforeDir="false" />
-    </list>
+    <list default="true" id="61935a50-bfe6-410a-a18f-e3018da809d0" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -130,7 +125,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
