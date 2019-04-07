@@ -1,6 +1,3 @@
-import os, sys
-BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-sys.path.append(BASE_DIR)
 import turtle as t
 from bizi import draw_bizi
 import head
@@ -12,8 +9,6 @@ import body
 import hands
 from legs import draw_legs
 from weiba import draw_weiba
-
-
 
 def main():
     """
